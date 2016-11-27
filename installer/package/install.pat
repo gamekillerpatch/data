@@ -3,4 +3,4 @@
 {luckypatcher}
 {.pat}
 {install}
-.Bob
+.obb
